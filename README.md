@@ -21,9 +21,9 @@ Here are some of the projects I've been working on. Each project has its own sto
 ## 🌱 Currently...
 
 Last Minute Grocery Texts - 
-I'm currently working on passion projects for the common person. Ever get that last minute text asking if you've left the grocery store yet? Of course I have. I'm efficient! :) Well, get that text no more by sending an automated message before you leave to make certain there's nothing else to get.
+I'm currently working on passion projects for the common person. Ever get that last minute text asking if you've left the grocery store yet? Of course I already left. I'm efficient! :) Well, get that text no more by sending an automated message before you leave to make certain there's nothing else to get.
 
-It's always exciting to keep pushing my boundaries and expanding my skillset. If you're interested in solving everday problems with code, let's connect and share our insights and ideas!
+It's always exciting to keep pushing my boundaries and expanding my skillset. If you're interested in solving every day problems with code, let's connect and share our insights and ideas!
 
 ## 📫 Get in Touch
 
