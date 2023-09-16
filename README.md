@@ -12,11 +12,11 @@ I'm also a fan of ![React](https://img.shields.io/badge/-React-61DAFB?logo=react
 
 Here are some of the projects I've been working on. Each project has its own story, challenges, and lessons learned. Feel free to take a look:
 
-1. [ECommerceMUI]([link](https://github.com/KMcClain23/ecommerceMUI)): I really enjoyed utilizing strapi as it simplified the backend process. This was also the first time I utilized stripe for payments and I will definitely use it again. :)
+1. [ECommerceMUI](https://github.com/KMcClain23/ecommerceMUI): I really enjoyed utilizing strapi as it simplified the backend process. This was also the first time I utilized stripe for payments and I will definitely use it again. :)
 
-2. [AdminDashMUI]([link](https://github.com/KMcClain23/reactAdminMaterialUI)): This was my first project using MUI and it was great! One of my fun challenges was determining the theme and colorscheme to look juuuuust right.
+2. [AdminDashMUI](https://github.com/KMcClain23/reactAdminMaterialUI): This was my first project using MUI and it was great! One of my fun challenges was determining the theme and colorscheme to look juuuuust right.
 
-3. [FamilyMeals]([link](https://github.com/KMcClain23/newCapRecipe)): This is a project I started for the betterment of my family and to keep the family recipe legacy alive. Halfway through I became very excited about all of the future features that would help the user stay connected with their family.
+3. [FamilyMeals](https://github.com/KMcClain23/newCapRecipe): This is a project I started for the betterment of my family and to keep the family recipe legacy alive. Halfway through I became very excited about all of the future features that would help the user stay connected with their family.
 
 ## 🌱 Currently...
 
