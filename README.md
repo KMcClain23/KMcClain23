@@ -30,7 +30,7 @@ It's always exciting to keep pushing my boundaries and expanding my skillset. If
 I love connecting with fellow developers, learners, and tech enthusiasts. You can reach me via:
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kmcclain23.github.io/Kevin_McClain/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-mcclain-00003468/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-mcclain2023/)
 
 Feel free to drop me a message if you have any questions, ideas, or just want to chat about the latest tech trends!
 
